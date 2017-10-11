@@ -1,0 +1,25 @@
+{
+  "name": "nodetodo",
+  "version": "1.0.0",
+  "description": "todo list app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himanshumehta1114/nodeToDo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himanshumehta1114/nodeToDo/issues"
+  },
+  "homepage": "https://github.com/himanshumehta1114/nodeToDo#readme",
+  "devDependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "mongoose": "^4.12.1"
+  }
+}
